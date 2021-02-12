@@ -1,4 +1,4 @@
 print("Hello world!")
 
 # unnötiger kommentar
-# der kommentar passt eh, keinharamasch
+# der kommentar passt eh, haramasch
